@@ -26,6 +26,8 @@
     //maybe
     NSLog(@"world YES");
     
+    NSLog(@"00000");
+    
     
     return YES;
 }
